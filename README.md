@@ -11,3 +11,7 @@ This is a Hospital Management System that allows users to add, delete, update, a
 - *QR Code Generation:* Generates a QR code for each patient.
 - *AI Chatbot Integration:* Uses an AI model for chatbot interactions.
 - *Flask Backend:* Handles API requests for patient data.
+
+
+
+Main code is implemented in main.py, while backend.py and app.py serve as example implementations
